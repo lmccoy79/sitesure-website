@@ -1,0 +1,1 @@
+Reusable design assets are contained in site.css and site.js. The forms use Formspree placeholders until a real endpoint is added.
