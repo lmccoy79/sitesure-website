@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 210" role="img" aria-labelledby="t d">
+<title id="t">SiteSure Cleaning Services</title><desc id="d">Navy and champagne gold SiteSure logo with stylized S monogram and sparkle</desc>
+<defs>
+  <linearGradient id="gold" x1="0" x2="1"><stop offset="0" stop-color="#b7892f"/><stop offset=".45" stop-color="#e7c66c"/><stop offset="1" stop-color="#b8872f"/></linearGradient>
+  <linearGradient id="navy" x1="0" x2="1"><stop offset="0" stop-color="#071b34"/><stop offset="1" stop-color="#14395f"/></linearGradient>
+</defs>
+<g transform="translate(12 8)">
+  <path d="M128 12c-40 0-77 21-94 54 24-19 55-30 87-26 22 3 41 14 47 29 5 13-2 24-17 30-17 7-43 7-63 12-32 8-52 29-52 55 0 28 26 47 62 47 43 0 77-24 92-54-25 21-58 32-90 27-20-3-35-13-39-26-4-12 3-23 18-29 17-7 44-8 65-14 32-9 50-30 50-55 0-30-27-50-66-50z" fill="url(#navy)"/>
+  <path d="M22 173c17 16 41 25 67 25 48 0 87-30 101-64-19 22-49 36-78 36-31 0-58-13-70-34-10-17-8-35 4-51 8-11 21-20 39-26C50 63 25 83 16 111c-7 22-5 43 6 62z" fill="url(#gold)" opacity=".95"/>
+  <path d="M128 25c20 0 37 6 50 16-4-13-13-24-27-31-20-11-47-12-70-4 16-1 32 5 47 19z" fill="url(#gold)"/>
+  <path d="M183 24l8 19 20 8-20 8-8 20-8-20-20-8 20-8z" fill="url(#gold)"/>
+</g>
+<g transform="translate(220 38)">
+  <text x="0" y="78" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="800" fill="#0b2d52">Site<tspan fill="url(#gold)">Sure</tspan></text>
+  <text x="3" y="120" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" letter-spacing="9" fill="#0b2d52">CLEANING SERVICES</text>
+  <line x1="4" y1="148" x2="64" y2="148" stroke="url(#gold)" stroke-width="2"/>
+  <text x="78" y="155" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="4" fill="#0b2d52">CLEAN. CONSISTENT. READY.</text>
+  <line x1="500" y1="148" x2="560" y2="148" stroke="url(#gold)" stroke-width="2"/>
+</g>
+</svg>
